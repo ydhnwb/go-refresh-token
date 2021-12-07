@@ -1,1 +1,1 @@
-web: go-refresh-token
+web: go-refresh-token-example
